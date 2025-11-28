@@ -21,8 +21,7 @@ export const Hero = () => {
       <div className="mt-[140px] text-center px-4">
 
         <h1 className="text-4xl font-bold text-gray-700 tracking-wider">
-          Dhruv Tailor
-        </h1>
+          Dhruv         </h1>
 
         <h2 className="text-3xl md:text-5xl font-bold text-gray-500 mt-6 leading-tight">
           FRONTEND DEVELOPER & UI DESIGNER
